@@ -1,0 +1,4 @@
+node_module
+vendor
+.DS_Store
+includes/.env
